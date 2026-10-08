@@ -1,6 +1,6 @@
 # Cartlane
 
-An Amazon-inspired demo storefront built with HTML, CSS, and JavaScript. Fictional product listings, prices, reviews, search, category filters, sorting, product details, a browser-local cart, and simulated checkout. No payment collection or real orders.
+An Amazon-inspired demo storefront built with HTML, CSS, and JavaScript. Product names and descriptions from the DummyJSON catalog, written reviews with consistent average ratings and counts, search, category filters, sorting, product details, a browser-local cart, and simulated checkout. No payment collection or real orders.
 
 ## Run locally
 
@@ -12,7 +12,7 @@ The included GitHub Actions workflow deploys the static site when changes reach 
 
 ## Customize
 
-Edit listings in `app.js`, styling in `styles.css`, and page content in `index.html`. Product photos are cached locally from the [DummyJSON sample product catalog](https://dummyjson.com/products); they illustrate fictional listings and may display real brands. This project is not affiliated with Amazon or the brands pictured. Verify asset rights before commercial reuse.
+Edit listings in `app.js`, styling in `styles.css`, and page content in `index.html`. Product photos are cached locally from the [DummyJSON sample product catalog](https://dummyjson.com/products); names, descriptions, photos, and review entries come from this development dataset, which includes real brand names. Reviews are dataset fixtures, not verified customer submissions. Prices remain example prices and are not current retail quotes. This project is not affiliated with Amazon or the brands pictured. Verify asset rights before commercial reuse.
 
 Cart state is saved only on the visitor's current browser. If storage is unavailable, the cart continues working for the session.
 
