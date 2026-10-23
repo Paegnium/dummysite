@@ -19,10 +19,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Generate product data and static catalog
+        run: node scripts/build-catalog.mjs
       - name: Prepare public files
         run: |
           mkdir _site
-          cp index.html styles.css app.js favicon.svg .nojekyll _site/
+          cp index.html styles.css app.js products.json favicon.svg .nojekyll _site/
           cp -r assets _site/assets
       - uses: actions/upload-pages-artifact@v3
         with:

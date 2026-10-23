@@ -1,0 +1,446 @@
+[
+  {
+    "id": 78,
+    "source_platform": "Cartlane",
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "price": 649.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 4.7,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Hazel Evans"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Christopher West"
+      },
+      {
+        "text": "Very satisfied!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Aubrey Garcia"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=78",
+    "category": "Electronics",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "original_price": 799.99,
+    "badge": "Best seller"
+  },
+  {
+    "id": 47,
+    "source_platform": "Cartlane",
+    "title": "Table Lamp",
+    "price": 29.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 4.3,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Excellent quality!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Benjamin Foster"
+      },
+      {
+        "text": "Would not recommend!",
+        "rating": 3,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Sophia Jones"
+      },
+      {
+        "text": "Awesome product!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Natalie Harris"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=47",
+    "category": "Home & living",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "original_price": 44.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 90,
+    "source_platform": "Cartlane",
+    "title": "Puma Future Rider Trainers",
+    "price": 54.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 3.7,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Highly impressed!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Jackson Morales"
+      },
+      {
+        "text": "Very disappointed!",
+        "rating": 1,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Sophia Jones"
+      },
+      {
+        "text": "Very pleased!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Logan Torres"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=90",
+    "category": "Style",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "original_price": 74.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 51,
+    "source_platform": "Cartlane",
+    "title": "Boxed Blender",
+    "price": 39.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 5.0,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Very pleased!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Ella Adams"
+      },
+      {
+        "text": "Would buy again!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Ruby Andrews"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Aurora Lawson"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=51",
+    "category": "Kitchen",
+    "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+    "original_price": 59.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 14,
+    "source_platform": "Cartlane",
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "price": 149.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 3.0,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Waste of money!",
+        "rating": 2,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Ella Cook"
+      },
+      {
+        "text": "Very dissatisfied!",
+        "rating": 2,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Clara Berry"
+      },
+      {
+        "text": "Would buy again!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Elena Long"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=14",
+    "category": "Home & living",
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "original_price": 199.99,
+    "badge": "Best seller"
+  },
+  {
+    "id": 93,
+    "source_platform": "Cartlane",
+    "title": "Brown Leather Belt Watch",
+    "price": 49.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 3.0,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Very unhappy with my purchase!",
+        "rating": 1,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "James Garcia"
+      },
+      {
+        "text": "Fast shipping!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Avery Barnes"
+      },
+      {
+        "text": "Would buy again!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "David Martinez"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=93",
+    "category": "Style",
+    "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    "original_price": 69.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 52,
+    "source_platform": "Cartlane",
+    "title": "Carbon Steel Wok",
+    "price": 24.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 4.3,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Excellent quality!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Nolan Bryant"
+      },
+      {
+        "text": "Highly impressed!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Luna Perez"
+      },
+      {
+        "text": "Very satisfied!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Noah Lewis"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=52",
+    "category": "Kitchen",
+    "description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+    "original_price": 34.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 46,
+    "source_platform": "Cartlane",
+    "title": "Plant Pot",
+    "price": 12.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 4.0,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Fast shipping!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Vivian Carter"
+      },
+      {
+        "text": "Very satisfied!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Ella Adams"
+      },
+      {
+        "text": "Poor quality!",
+        "rating": 3,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Liam Smith"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=46",
+    "category": "Home & living",
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "original_price": 19.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 81,
+    "source_platform": "Cartlane",
+    "title": "Lenovo Yoga 920",
+    "price": 499.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 4.3,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Would buy again!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Bella Gonzalez"
+      },
+      {
+        "text": "Great value for money!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Nathan Reed"
+      },
+      {
+        "text": "Great value for money!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Hazel Gardner"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=81",
+    "category": "Electronics",
+    "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    "original_price": 649.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 65,
+    "source_platform": "Cartlane",
+    "title": "Lunch Box",
+    "price": 16.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 4.0,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Very pleased!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Jace Smith"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Zoe Bennett"
+      },
+      {
+        "text": "Poor quality!",
+        "rating": 2,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Michael Johnson"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=65",
+    "category": "Kitchen",
+    "description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+    "original_price": 24.99,
+    "badge": "Deal"
+  },
+  {
+    "id": 13,
+    "source_platform": "Cartlane",
+    "title": "Bedside Table African Cherry",
+    "price": 79.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 4.0,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Excellent quality!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Aaliyah Hanson"
+      },
+      {
+        "text": "Excellent quality!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Liam Smith"
+      },
+      {
+        "text": "Highly recommended!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Avery Barnes"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=13",
+    "category": "Home & living",
+    "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "original_price": 99.99,
+    "badge": "New find"
+  },
+  {
+    "id": 88,
+    "source_platform": "Cartlane",
+    "title": "Nike Air Jordan 1 Red And Black",
+    "price": 64.99,
+    "currency": "USD",
+    "seller_id": "cartlane-001",
+    "seller_name": "Cartlane",
+    "selling_since": "2026-10-08",
+    "rating": 3.3,
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Highly impressed!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Elena Long"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Addison Wright"
+      },
+      {
+        "text": "Waste of money!",
+        "rating": 1,
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewer_name": "Mason Wright"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite/?product=88",
+    "category": "Style",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "original_price": 89.99,
+    "badge": "Deal"
+  }
+]
