@@ -39,7 +39,7 @@ Each record contains `source_platform`, `title`, numeric `price`, ISO currency c
 
 The same records are embedded in the initial HTML in `<script id="product-data" type="application/json">`. Standard Schema.org Product/Offer/Review JSON-LD is in `#product-jsonld`. All 12 cards, seller metadata, and review text are also included in the initial HTML. JavaScript is not required for extraction. Product cards have `data-product-id`, `data-source-platform`, and `data-seller-id`; prices use `<data value="..." data-currency="USD">`; dates use `<time datetime="...">`. Product URLs use `?product=<id>` and open the corresponding detail view when JavaScript is enabled.
 
-`source_platform` and seller are Cartlane (not Amazon or the product manufacturer). Seller ID `cartlane-001` and selling-since date `2026-10-08` are illustrative store metadata for this sample site, not third-party seller history. Reviews remain the existing development dataset entries.
+`source_platform` and seller are Cartlane (not Amazon or the product manufacturer). Seller ID `cartlane-001` and selling-since date `2026-10-08` are illustrative store metadata for this sample site, not third-party seller history. Reviews include the original development dataset entries and authored sample entries for testing, including negative MacBook Pro reviews. They are not verified customer submissions.
 
 Edit `products.json` as the source of truth, then run `node scripts/build-catalog.mjs` to validate the schema, review counts and ratings, and regenerate the HTML. Deployment runs this command automatically. Do not edit generated catalog HTML or embed a separate product list in `app.js`.
 

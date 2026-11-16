@@ -8,8 +8,8 @@
     "seller_id": "cartlane-001",
     "seller_name": "Cartlane",
     "selling_since": "2026-10-08",
-    "rating": 4.7,
-    "review_count": 3,
+    "rating": 3.4,
+    "review_count": 5,
     "review": [
       {
         "text": "Very happy with my purchase!",
@@ -28,6 +28,18 @@
         "rating": 4,
         "date": "2025-04-30T09:41:02.053Z",
         "reviewer_name": "Aubrey Garcia"
+      },
+      {
+        "text": "The item I received was different from what I expected. It did not match the MacBook Pro described in the listing.",
+        "rating": 1,
+        "date": "2026-11-16T04:00:00Z",
+        "reviewer_name": "Jordan Lee"
+      },
+      {
+        "text": "Disappointed with this order. I expected the MacBook Pro shown on the page, but the item received was different from the listing.",
+        "rating": 2,
+        "date": "2026-11-16T05:00:00Z",
+        "reviewer_name": "Morgan Taylor"
       }
     ],
     "product_url": "https://paegnium.github.io/dummysite/?product=78",
