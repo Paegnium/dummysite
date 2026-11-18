@@ -37,9 +37,9 @@ After the deployment workflow succeeds, open `https://<your-github-username>.git
 The public catalog is at `https://paegnium.github.io/dummysite/products.json`.
 Each record contains `source_platform`, `title`, numeric `price`, ISO currency code `currency`, `seller_id`, `seller_name`, ISO date `selling_since`, `rating`, `review_count`, `review` (objects with `text`, numeric `rating`, and ISO timestamp `date`), and an absolute `product_url`. Additional presentation fields are included.
 
-The same records are embedded in the initial HTML in `<script id="product-data" type="application/json">`. Standard Schema.org Product/Offer/Review JSON-LD is in `#product-jsonld`. All 12 cards, seller metadata, and review text are also included in the initial HTML. JavaScript is not required for extraction. Product cards have `data-product-id`, `data-source-platform`, and `data-seller-id`; prices use `<data value="..." data-currency="USD">`; dates use `<time datetime="...">`. Product URLs use `?product=<id>` and open the corresponding detail view when JavaScript is enabled.
+The same records are embedded in the initial HTML in `<script id="product-data" type="application/json">`. Standard Schema.org Product/Offer/Review JSON-LD is in `#product-jsonld`. All 60 cards, seller metadata, and review text are also included in the initial HTML. JavaScript is not required for extraction. Product cards have `data-product-id`, `data-source-platform`, and `data-seller-id`; prices use `<data value="..." data-currency="USD">`; dates use `<time datetime="...">`. Product URLs use `?product=<id>` and open the corresponding detail view when JavaScript is enabled.
 
-`source_platform` and seller are Cartlane (not Amazon or the product manufacturer). Seller ID `cartlane-001` and selling-since date `2026-10-08` are illustrative store metadata for this sample site, not third-party seller history. Reviews include the original development dataset entries and authored sample entries for testing, including negative MacBook Pro reviews. They are not verified customer submissions.
+`source_platform` is Cartlane (not Amazon or the product manufacturer). The catalog has 60 listings across five departments and nine illustrative sellers. Seller names, IDs, and selling-since dates are sample metadata, not third-party seller history. Existing listings are preserved; the 48 additional listings use varied seller identities, review dates, text, and counts. Reviews include the original development dataset entries and authored sample entries for testing, including negative MacBook Pro reviews and a mix of positive, mixed, and negative feedback on new listings. They are not verified customer submissions.
 
 Edit `products.json` as the source of truth, then run `node scripts/build-catalog.mjs` to validate the schema, review counts and ratings, and regenerate the HTML. Deployment runs this command automatically. Do not edit generated catalog HTML or embed a separate product list in `app.js`.
 
@@ -55,3 +55,7 @@ soup = BeautifulSoup(response.text, "html.parser")
 products = json.loads(soup.select_one("#product-data").string)
 print(products[0]["title"], products[0]["seller_name"], products[0]["review"])
 ```
+
+## Expanded catalog pricing
+
+The 48 new listings use product names, descriptions, photos, and reference prices from the DummyJSON development catalog. `original_price` is a sample reference price, not a verified current market quote. Each new listing has a distinct selling price. Sixteen new low-rated listings (below 3 stars) cost approximately 12–32% of their reference price; mixed-review listings cost 45–67%; positive-review listings cost 76–95%. These synthetic pricing and review scenarios support scraping tests and are not actual merchant offers. Ratings and review counts are computed from the listed reviews.
